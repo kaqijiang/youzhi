@@ -48,7 +48,7 @@ https://youzhi.chat
 
 **加入微信交流群**
 
-<img src="https://youzhi.chat/imgs/gzh.png" width="456" height="156"/>
+<img src="https://youzhi.chat/imgs/gzh.svg" width="456" height="156"/>
 
 ## 赞助
 
